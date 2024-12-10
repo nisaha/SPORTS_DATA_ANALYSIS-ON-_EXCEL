@@ -19,6 +19,18 @@ We are a part of XYZ Co Pvt Ltd company who is in the business of organizing the
 • Display the units for the WEIGHT column (Prescribedformat example: 80 kg)
 • Format the SALARY to show the data In thousands. If SALARYisless than 100,000 then display data with 2 decimal places else display data with one decimal place.In both c.ases units  should be thousands (k) e.g. 87670 -> 87.67 k and 12 250 -> 123.2 k
 
+####  TASK 3: SUMMARIZE DATA - PIVOT TABLE
+• Create a PIVOT table in the worksheet ANALYSIS, starting at cell B3,with the following details: 
+ - In COLUMNS; Group : GENDER.
+ - In ROWS; Group : COUNTRY (Note: use COUNTRY NAMES)
+ - In VALUES; calculate the count of candidates from each COUNTRY and GENDER type, Remove GRAND TOTAls
+
+####  TASK 4: SUMMARIZE DATA - EXCEL FUNCTIONS
+ - Create a SUMMARY table in the worksheet ANALYSIS,starting at cell G4, with the following details.
+ - Starting from range RANGE H4; get the dis!lnct GENDER. Use remove dupli cates op!lon and transpose the data Starting from range RANGE GS; get the dis!lnct COUNTRY (Note: use COUNTRY NAMES)
+ - In the cross table,get the count of candidates from each COUNTRY and GENDER type
+
+
 ## Process
 •	Verify data for any missing values and anomalies, and sort out the same
 •	Made sure data is consistent and clean with respect to data type, data format and values used
